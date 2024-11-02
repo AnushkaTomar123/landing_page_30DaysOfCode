@@ -204,6 +204,7 @@
 .fourthpart .bonus .fourdivdiv {
   background-color: #f0effe;
   text-wrap: wrap;
+  border-radius: 2rem;
 }
 .fourthpart .bonus .fourdivdiv h1 {
   background: linear-gradient(90deg, #7367F0, #EDAEF8);
@@ -294,4 +295,11 @@
 
 .learners {
   background-color: #ffffff;
+}
+
+.tenths {
+  background-color: #F0EFFE;
+}
+.tenths .tenthpart .lastboxes {
+  border: 1px solid #DDE1E6;
 }/*# sourceMappingURL=style.css.map */
