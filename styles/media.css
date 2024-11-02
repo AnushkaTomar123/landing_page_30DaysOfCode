@@ -1,0 +1,26 @@
+@media  only screen and (max-width: 480px)
+{
+    .colorbox .greenbox{
+     visibility: hidden;
+    }
+    .samebox .up{
+        display: flex;
+        flex-direction: column;
+    }
+    .samebox .up .upsame{
+        text-align: start;
+    }
+    .samebox .down {
+        display: flex;
+        flex-direction: column;
+    }
+    .fourthpart .bonus .bonusA{
+        visibility: hidden;
+    }
+    .fourthpart .bonus .bonusB{
+        visibility: hidden;
+    }
+    
+}
+
+    
